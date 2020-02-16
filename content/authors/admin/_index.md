@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Chen Wang
+name: Haha
 
 # Username (this should match the folder name)
 authors:
@@ -14,7 +14,7 @@ role: Ph.D. Candidate
 
 # Organizations/Affiliations
 organizations:
-- name: Rutgers University
+- name:  University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -28,13 +28,13 @@ interests:
 education:
   courses:
   - course: Ph.D. Candidate in Environmental Science
-    institution: Rutgers University
+    institution:  University
     year: 2015-present
   - course: MEng in Environmental Engineering
     institution: Chinese Academy of Sciences
     year: 2012-2015
   - course: BSc in Environmental Science
-    institution: Sun Yat-sen University
+    institution:  University
     year: 2008-2012
 
 # Social/Academic Networking
