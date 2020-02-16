@@ -71,6 +71,6 @@ user_groups:
 - Visitors
 ---
 
-Chen Wang is a .
+Haha is a .
 
 
